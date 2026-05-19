@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Arrjava Farms Farm Plot venture in Hyderabad, a promising open plot investment.
+Experience high returns at Patancheru a prime location of for growth and prosperity.">
+    <meta name="keywords" content="Abhsita Projets, Arrjava Farms, Best investment plan in hyderabad, Best farm land project in hyderabad, Hyderabad Realestate, Farm land for sale, Farm land near begumpet village, farm land in begumpet village, Farm land sale in hyderabad, buy farm land in hyderabad, best area to buy farm land in hyderabad ">
+    <title>open plots in hyderabad open plots in patancheru</title>
+    <link rel="icon" type="image/png" href="https://arrjavafarms.com/images//favcon.png" sizes="16x16">
+    <link rel="stylesheet" href="assets/css/fontawasome.css">
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="assets/css/odometer.css">
+    <link rel="stylesheet" href="assets/css/lightcase.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">    
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+          .header__top--toppage2 {
+    background: #9b6849 !important;
+}
+        .custom-btn
+        {
+            background-color: #9b6849 !important;
+        }
+        .header__topcontent--topcontentpage2 .right ul li a i
+        {
+                color: #000000 !important;
+        }
+        
+        
+        
+          /* Ensure the swiper-slide fills the height consistently */
+.swiper-slide {
+    /*  height: 100vh; */
+       /* Full viewport height; adjust as needed */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center; /* Vertically centers content */
+}
+.swipe{
+     background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center; /* Vertically centers content */
+}
+
+@media (max-width: 768px) {
+    .swiper-slide {
+        height: 70vh; /* Smaller height for mobile screens */
+    }
+}
+       .banner__content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} 
+
+
+
+/* Sticky Form Bottom Right */
+.sticky-form-bottom {
+    position: fixed;
+    bottom: 50px;
+    right: 0;
+    width: 270px;
+    transform: translateX(270px); /* Hide most of it, keep handle visible */
+    transition: transform 0.4s ease-in-out;
+    z-index: 1000;
+    font-family: Arial, sans-serif;
+}
+
+/* Show on hover */
+.sticky-form-bottom:hover {
+    transform: translateX(0);
+}
+
+/* Handle (tab) to show text when hidden) */
+.form-handle {
+    background-color: #5c8a2f;
+    color: white;
+    padding: 12px 15px;
+    cursor: pointer;
+    writing-mode: vertical-rl;
+    text-align: center;
+    font-weight: bold;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    position: absolute;
+    top: 20px;
+    left: -45px;
+}
+
+/* Form Body */
+.form-body {
+    background: #fff;
+    padding: 20px;
+    box-shadow: -2px 2px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px 0 0 8px;
+}
+
+/* Input styles */
+.form-body input,
+.form-body textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-body button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5c8a2f;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .sticky-form-bottom {
+        display: none; /* Hide on small screens or adapt with media queries */
+    }
+}
+
+
+@media (max-width: 768px) {
+    .sticky-form-bottom {
+        width: 100%;
+        bottom: 0;
+        right: 0;
+        transform: translateX(0); /* Always open on mobile */
+        border-radius: 0;
+    }
+
+    .form-handle {
+        display: none; /* Hide the vertical tab on mobile */
+    }
+
+    .form-body {
+        padding: 15px;
+    }
+}
+@media (min-width: 1200px) {
+    .footer__top {
+        padding: 40px;
+    }
+}
+
+.one
+{
+    margin-bottom: 0px !important;
+}
+    </style>
+</head>
+
+<body>
+    
+    <!-- Preloader -->
+    <div class="preloader"></div>    
+
+ <!-- start header section here -->
+    <div class="header header--headerpage3">
+        <div class="header__top header__top--toppage2 header__top--toppage3">
+            <div class="container-xl container-fluid">
+          <div class="header__topcontent header__topcontent--topcontentpage2">
+                    <div class="left">
+                    <ul>
+                            <li>
+                                <div class="icon">                                                       
+                                    <i class="fa-solid fa-square-phone"></i>                              
+                                </div>
+                                <div class="text">
+                                    <a href="tel:+91 81858 98089">
+  <p class="one">+91 81858 98089</p></a>
+                                                           
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">                                                       
+                                    <i class="fa-sharp fa-regular fa-envelope-open"></i>                              
+                                </div>
+                                <div class="text">
+                                    <p class="one">iinfo.arrjavafarms@gmail.com</p>                            
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">                                                       
+                                    <i class="fa-sharp fa-solid fa-location-dot"></i>                             
+                                </div>
+                                <div class="text">
+                                   <p class="one">Kakatiya Hills, Madhapur, Hyderabad, 500081</p>                            
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="right">
+                        <ul>
+                            <li><a href="https://www.facebook.com/AbhistaProperties"><i class="fa-brands fa-facebook-f"></i></a></li>
+                            <li><a href="https://twitter.com/Abhista_homes"><i class="fa-sharp fa-brands fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/76145823"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            <li><a href="https://www.instagram.com/abhista.in_realestate/"><i class="fa-brands fa-instagram"></i></a></li>
+                        </ul>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header__bottom header__bottom--bottompage3 bg-white">
+            <div class="container-xl container-fluid">
+                <div class="row align-items-center">
+                    <div class="col-6 col-xl-2">
+                        <div class="left">
+                            <div class="header__logo">
+                                <a href="index.php"><img src="assets/img/logo/logo.png" alt="logo" style="width:130px;"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-xl-10">
+                        <div class="right">                            
+                            <div class="header__nav target"> 
+                                <div class="mobilelogo d-xl-none d-block">
+                                    <a href="index.php"><img src="assets/img/logo/logo.png" alt="logo" style="width:130px;"></a>
+                                </div>
+                                <div class="mainactive activescroll">                           
+                                    <ul>
+                                        <li><a href="index.php">Home</a>
+                                            
+                                        </li>                                    
+                                        <li ><a href="about.php">About</a></li>
+                                         <li class="active"><a href="project.php">Project</a></li>   
+                                         <li><a href="gallery.php">Gallery</a></li>      
+                                       
+                                       
+                                       
+                                        <li><a href="contact.php">Contact</a></li>
+                                    </ul>
+                                </div>                                
+                            </div> 
+                            <div class="header__bottombtn d-xl-block d-none">
+                                <img src="https://arrjavafarms.com/images/abista.png" data-rel="lightcase:myCollection" style="width:130px;">                                                
+                                                
+                                            
+                            </div>
+                           
+                            <div class="bar d-xl-none d-block">
+                                <i class="fa-solid fa-bars"></i>
+                            </div>                            
+                        </div>
+                    </div>                    
+                </div>
+            </div>
+        </div>
+    </div>  
+    <!--  header section here --> 
+
+     <!-- start banner here -->
+     <section class="pageheader overflow-hidden">
+        <div class="container">
+            <div class="pageheader__content">
+                <h2>Our Project Details</h2>
+                <nav aria-label="breadcrumb">
+                    <ul class="breadcrumb">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="#0">pages</a></li>
+                        <li class="active" aria-current="page">Project Details</li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </section>
+    <!-- end banner here -->
+
+    <!-- portfolio single page start here -->
+    <div class="portfoliosingle padding-block  bg-white">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-sm-4">
+                    <div class="portfoliosingle__thumb imghover">
+                        <img src="assets/img/project-details/proj_img3.jpeg" alt="bakul">
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="portfoliosingle__thumb imghover">
+                        <img src="assets/img/project-details/proj_img2.jpeg" alt="bakul">
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="portfoliosingle__thumb imghover">
+                        <img src="assets/img/project-details/proj_img1.jpeg" alt="bakul">
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-5 g-4">
+                <div class="col-xl-8">                            
+                    <div class="portfoliosingle__left">
+                        <div class="item">
+                            <h4>A Life Time Investment</h4>
+                            <p>Features a cherry-picked location that envelops you in lush green surroundings and clear blue skies. Your investment here grants security as well as serenity, as we've ensured your investment bears the best fruit with appreciating returns.</p>  
+                            <p>Project Highlights</p>
+                            <ul>
+                            <li>
+                               
+                            Exquisite Landscaping </li>
+ <li>40 mins from the Financial District. </li>
+ <li>Free Maintenance for 2 Years, 24/7 Security & Water Pipelines </li>
+ <li>Yield High Returns over the next 5 Years. </li>
+ <li>Best value investing opportunity right next to Patancheru & Kollur </li>
+ <li>Children's Play Area & Park </li>
+ <li>Drip Irrigation with Electricity </li>
+                            
+                            
+                            </ul>
+                            <p>Location Highlights</p>
+                            <ul>
+                            <li>
+                            Best value investing opportunity right next to Patancheru & Kollur</li>
+ <li>Close proximity to several leading schools, colleges and hospitals</li>
+ <li>Surrounded by Integrated Townships & High-rise Apartments</li>
+ <li>Weekend Farming (Farming Village, Herbal Garden, Pond, Workshops)</li>
+                            </ul>
+                         
+                      
+                    </div>
+                    </div></div>
+                <div class="col-xl-4">
+                    <div class="portfoliosingle__right">
+                        <h4>Project Layout</h4>
+                         <img src="assets/img/project-details/map.jpg" alt="bakul">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- portfolio single page end here -->
+
+    <!-- start question section here -->
+     <section class="question question--paddingservice bg-white">
+        <div class="container">
+            <div class="section__header section__header--header2">
+                <div class="col-md-12">
+                    <span>Asked Questions</span>
+                     <h3>Benefits of choosing Arrjava Farms</h3>
+                     <p>Nestled in the picturesque landscapes of Patenchuru, Hyderabad, Arrjava Farms stands as a testament to beauty, tranquility, and boundless possibilities. This visionary real estate project focuses on project plots, inviting you to embark on a journey of discovery, where dreams are nurtured and life unfolds in harmony with nature.</p>
+                </div>
+            </div> 
+            <div class="section__wrapper mt-5">
+                <div class="row">
+                    <div class="col-lg-6">                    
+                        <div class="accordion" id="accordionExample">
+                            <div class="accordion-item accordion-item--itme2Serpage accordion-item--item2">
+                                <h2 class="accordion-header" id="headingOne">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+Embrace the Beauty of Nature<span class="plus-icon"></span></button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show"
+                                    aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Arrjava Farms is a mesmerizing tapestry where nature's beauty takes center stage. As you step foot into this enchanting realm, you are greeted by the soothing melodies of chirping birds and the gentle rustle of leaves. Towering trees and vibrant gardens create an atmosphere of serenity, allowing you to escape the hustle and bustle of city life and embrace the embrace of nature's embrace.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item accordion-item--itme2Serpage accordion-item--item2">
+                                <h2 class="accordion-header" id="headingTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+										  Thoughtful Project Plots for a Blissful Life
+										<span class="plus-icon"></span></button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse"
+                                    aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Arrjava Farms offers thoughtfully planned project plots that cater to your unique desires and aspirations. Each plot is a canvas awaiting your vision, whether it's a charming villa or a modern masterpiece. The well-designed layouts provide ample space for crafting your dream home, and the seamless integration with nature ensures an inspired living experience.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item accordion-item--itme2Serpage accordion-item--item2">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> 
+										A Sanctuary of Tranquility
+										<span class="plus-icon"></span></button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>In the embrace of Arrjava Farms, you'll find a sanctuary of tranquility, a place where time seems to slow down, and worries fade away. The open spaces and serene environment allow you to reconnect with yourself and find solace in the simplicity of life. It's a haven where you can savor the beauty of each moment and create memories that will last a lifetime.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item accordion-item--itme2Serpage accordion-item--item2">
+                                <h2 class="accordion-header" id="headingfour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+										Endless Opportunities for Growth
+										<span class="plus-icon"></span>
+                                    </button>
+                                </h2>
+                                <div id="collapsefour" class="accordion-collapse collapse"
+                                    aria-labelledby="headingfour" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Investing in a project plot at Arrjava Farms is an investment in a future of endless possibilities. The strategic location in Patenchuru offers excellent connectivity to major hubs, educational institutions, and healthcare facilities, ensuring a life of convenience and growth. It's not just a plot of land; it's a pathway to a brighter future.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                    </div>
+                    <div class="col-lg-6">                    
+                        <div class="accordion" id="accordionExample2">
+                            <div class="accordion-item accordion-item--itme2Serpage accordion-item--item2">
+                                <h2 class="accordion-header" id="headingfive">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefive" aria-expanded="true" aria-controls="collapsefive">
+										Security and Peace of Mind
+										<span class="plus-icon"></span></button>
+                                </h2>
+                                <div id="collapsefive" class="accordion-collapse collapse show"
+                                    aria-labelledby="headingfive" data-bs-parent="#accordionExample2">
+                                    <div class="accordion-body">
+                                        <p>Arrjava Farms places a premium on the safety and security of its residents. The gated community ensures round-the-clock surveillance, vigilant security personnel, and advanced safety measures, providing you and your loved ones with peace of mind. Here, you can live with confidence, knowing that your well-being is in trusted hands.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item accordion-item--itme2Serpage accordion-item--item2">
+                                <h2 class="accordion-header" id="headingsix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix">
+										A Canvas for Your Dreams
+										 <span class="plus-icon"></span></button>
+                                </h2>
+                                <div id="collapsesix" class="accordion-collapse collapse"
+                                    aria-labelledby="headingsix" data-bs-parent="#accordionExample2">
+                                    <div class="accordion-body">
+                                        <p>Arrjava Farms offers not just farms plots but a canvas for your dreams to come alive. It's a place where you can create a home that reflects your essence, where every brick and every stroke of design carries a piece of your heart. Your dream home awaits, and Arrjava Farms is the canvas on which it will be painted.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item accordion-item--itme2Serpage accordion-item--item2">
+                                <h2 class="accordion-header" id="headingseven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseseven" aria-expanded="false" aria-controls="collapseseven"> 
+										Conclusion
+										 <span class="plus-icon"></span></button>
+                                </h2>
+                                <div id="collapseseven" class="accordion-collapse collapse"
+                                    aria-labelledby="headingseven" data-bs-parent="#accordionExample2">
+                                    <div class="accordion-body">
+                                        <p>Arrjava Farms is more than just a real estate project; it's an invitation to a life of fulfillment and bliss. With its focus on Farms plots, serene surroundings, and thriving community spirit, Arrjava Farms offers an exceptional living experience that is second to none. Embrace the serenity, unleash your creativity, and step into a world of endless possibilities at Arrjava Farms, where life is a beautiful tapestry waiting to be woven.</p>
+                                    </div>
+                                </div>
+                            </div>
+                    
+                        </div> 
+                    </div>                 
+                </div>
+            </div>
+        </div>
+   
+    </section>
+    <!-- end question section here -->
+
+ <!-- start footer section here -->
+    <section class="footer overflow-hidden">
+        <div class="footer__top">
+            <div class="container">
+                <div class="row g-4">
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="footer__about">
+                            <h6>about us</h6>
+                            <div class="text">
+                                <p>Established in the year 2016, Arrjava Farms Company achieved success through immense care in planning and choosing the right resources and execution, be it the drawings, construction material, and Vaastu to a clear title.</p>                                
+                                <div class="allsocialicon">
+                                    <h6>follow us</h6>
+                                    <ul>
+                                        <li><a href="https://www.facebook.com/AbhistaProperties"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                        <li><a href="https://twitter.com/Abhista_homes"><i class="fa-sharp fa-brands fa-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/company/76145823"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                        <li><a href="https://www.instagram.com/abhista.in_realestate/"><i class="fa-brands fa-instagram"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="footer__link">
+                            <h6>Quick Links</h6>
+                            <ul>
+                                <li><i class="fa-solid fa-leaf"></i><a href="about.php">About Us</a></li>
+                                <li><i class="fa-solid fa-leaf"></i><a href="#">Project</a></li>
+                                <li><i class="fa-solid fa-leaf"></i><a href="contact.php">Contact us</a></li>
+                                <li><i class="fa-solid fa-leaf"></i><a href="#">Feedback</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="footer__news">
+                            <h6>Contact Us</h6>
+                            <ul>       <li>
+                                <div class="icon">
+                                    <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                </div>
+                                <div class="text">
+                                    <p>#Plot No - 109, Street No - 3, Kakatiya Hills, Madhapur, Hyderabad, 500081</p>
+                                </div>
+                            </li>
+                                     <li>
+                                <div class="icon">
+                                    <i class="fa-solid fa-square-phone"></i>
+                                </div>
+                                <div class="text">
+                                    <p>tel:+91 81858 98089</p>
+                                </div>
+                            </li>
+                           <li>
+                                <div class="icon">
+                                    <i class="fa-sharp fa-regular fa-envelope-open"></i>
+                                </div>
+                                <div class="text">
+                                    <p>info.arrjavafarms@gmail.com</p>
+                                </div>
+                            </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="footer__photo">
+                           
+                            <div class="allphoto">
+                                <div class="item imghover">
+                                    <a href="#"><img src="https://arrjavafarms.com/images/abista.png" alt="bakul"></a> 
+                                    <div class="inneritem go-up">
+                                        <div class="upitem search">
+                                            <a href="https://arrjavafarms.com/images/abista.png" data-rel="lightcase:myCollection">                                                
+                                                <i class="fa-sharp fa-regular fa-eye"></i>
+                                            </a>
+                                        </div>                                        
+                                    </div>
+                                </div>                              
+                      
+                            
+                         
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer__bottom">
+            <p><i class="fa-regular fa-copyright"></i> Copyright 2025. All Rights Reserved</p>
+        </div>
+    </section>
+     <!-- end footer section here -->
+
+    <!-- scrollToTop start here -->
+    <a href="#" class="scrollToTop">
+        <i class="fa-solid fa-arrow-up-long"></i>
+        <span class="pluse_1"></span>
+        <span class="pluse_2"></span>
+    </a>
+    <!-- scrollToTop ending here -->
+
+    <!-- vendor js -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>    
+    <script src="assets/js/odometer.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/lightcase.js"></script>
+    <script src="assets/js/viewport.jquery.js"></script>    
+  
+    
+     <!-- custome js here -->
+     <script src="assets/js/custom.js"></script>    
+    <script>
+        $(window).scroll(function () {
+            var hT = $('.skill-bar-wrapper').offset().top,
+                hH = $('.skill-bar-wrapper').outerHeight(),
+                wH = $(window).height(),
+                wS = $(this).scrollTop();
+            if (wS > (hT + hH - 1.4 * wH)) {
+                jQuery(document).ready(function () {
+                    jQuery('.skillbar-container').each(function () {
+                        jQuery(this).find('.skills').animate({
+                            width: jQuery(this).attr('data-percent')
+                        }, 5000); // 5 seconds
+                    });
+                });
+            }
+        });
+    </script>
+<div class="sticky-form-bottom" id="stickyForm">
+    <div class="form-handle">Book Site Visit</div>
+    <div class="form-body">
+        <h4>Enquire Now</h4>
+        <form action="#" method="post">
+            <input type="text" name="name" placeholder="Your Name" required />
+            <input type="email" name="email" placeholder="Your Email" required />
+            <input type="tel" name="mobile" placeholder="Your Phone" required />
+            <textarea name="message" placeholder="Your Message" rows="3" required></textarea>
+            <button type="submit">Submit</button>
+              
+        </form>
+        <p class="form-message"></p>
+    </div>
+</div>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"><!-- WhatsApp Floating Button -->
+<a href="https://wa.me/918185809809"
+   class="btn btn-success position-fixed bottom-0 end-0 m-3 d-flex align-items-center justify-content-center shadow"
+   target="_blank"
+   style="width: 60px; height: 60px; border-radius: 50%; z-index: 999;">
+  <i class="bi bi-whatsapp fs-3"></i>
+</a>
+</body>
+
+</html>
+
+<?php
+    // Only process POST reqeusts.
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        $name = strip_tags(trim($_POST["name"]));
+         $mobile = strip_tags(trim($_POST["mobile"]));
+        $name = str_replace(array("\r","\n"),array(" "," "),$name);
+        $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
+        $message = trim($_POST["message"]);
+
+        // Check that data was sent to the mailer.
+        if ( empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+            http_response_code(400);
+            echo "Please complete the form and try again.";
+            exit;
+        }
+
+        // FIXME: Update this to your desired email address.
+        $recipient = "veeresh@peoplespostmedia.in";
+
+        // Build the email content.
+        $email_content = "Full Name: $name\n";
+        $email_content .= "Mobile: $mobile\n\n";
+         $email_content .= "Email: $email\n\n";
+        $email_content .= "Message:\n$message\n";
+
+        // Build the email headers.
+        $email_headers = "From: $name Mobile: $mobile Email: $email Massage: $message ";
+        if (mail($recipient, $email_content, $email_headers)) {
+            http_response_code(200);
+            echo "Thank You! Your message has been sent.";
+        } else {
+            http_response_code(500);
+            echo "Oops! Something went wrong ande we couldn't send your message.";
+        }
+    }
+?>
